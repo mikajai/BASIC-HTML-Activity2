@@ -1,0 +1,27 @@
+.wrapper {
+    margin: auto;
+    width: 60%;
+}
+
+h2{
+    text-align: center;
+}
+
+titleroutine{
+    color: rgb(135, 0, 0);
+}
+
+th{
+    block-size: 30px;
+    text-align: left;
+    background-color: rgb(238, 202, 208);
+
+}
+
+.table-container {
+    display: flex;
+}
+
+.routine-table {
+    margin-right: 50px;
+}
